@@ -1,4 +1,4 @@
 h1 {
-  font-family: 'Amatic SC', cursive;
-  color: blue;
+  font-family: <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Dancing+Script" rel="stylesheet">;
+  color: grey;
 }
